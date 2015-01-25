@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1421926769 source:c:\users\Администратор\desktop\installer\samplevirus\main.cpp
+	<locale>
+	<stdio.h>
+	<winsock2.h>
+	<iostream>
+	<tchar.h>
+	<fstream>
+	<dirent.h>
+	<wininet.h>
+	<windows.h>
+	<string>
+	<vector>
+	<stdlib.h>
+
